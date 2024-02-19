@@ -5,6 +5,7 @@
 <div> 
   <a href = "mailto:rodrigoflbraz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-felipe-lima-braz-7b4190185" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rodrigoflbraz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
