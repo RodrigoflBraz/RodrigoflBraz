@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rodrigo Braz 🖐️
 
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoflbraz&show_icons=true&theme=tokyonight)
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoflbraz&show_icons=true&theme=dark)
 
 <div> 
   <a href = "mailto:rodrigoflbraz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
